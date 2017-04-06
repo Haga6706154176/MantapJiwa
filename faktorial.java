@@ -4,7 +4,7 @@ public class Main {
 
      public static void main(String[] args)
      {
-         System.out.print("Enter a number: ");
+         System.out.print("Msukkan nomor: ");
          Scanner input = new Scanner(System.in);
          int num = input.nextInt();
          long factorialResult = factorialRecursive(num);
