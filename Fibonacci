@@ -1,11 +1,7 @@
-package crunchify.com.tutorials;
+package ...;
  
 import java.util.Scanner;
  
-/**
- * @author Crunchify.com
- * 
- */
 public class CrunchifyFibonacci {
  
 	@SuppressWarnings("resource")
